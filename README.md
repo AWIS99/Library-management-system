@@ -1,2 +1,2 @@
 # Library-management-system
-This is basic project developed using java and sqlite.
+This is basic project is developed using java and sqlite.
